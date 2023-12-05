@@ -1,0 +1,22 @@
+Zoom wid tailwind
+-Ni skapar en förenklad version av zooms hemsida så ni behöver inte ha med allt innehåll på sajten,
+ men ta med minst 2 sektioner utöver navigation och hero-sektionen.
+
+-Elegant style
+
+-Navigering
+Navigeringen ska vara på en rad. Knapparna i navigeringen ska tonas ner så att dom inte konkurrerar med knappen i Main Lockup
+
+-Hero-sektionen
+Behåll en Main Lockup (Huvudrubrik, underrubrik och knapp med call to action). Använd max 3 delar i 
+Hero-sektionen. Om ni vill kan ni använda nya bilder eller illustrationer. T.ex. business illustrations
+
+-Responsiv
+Gör sajten responsiv så att den funkar både på mobil och desktop.
+
+TODO
+
+"Mobile first"
+
+1- Navigation
+2- hero section
