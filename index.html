@@ -5,26 +5,32 @@
     <link rel="icon" type="image/svg+xml" href="/vite.svg" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Vite App</title>
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200"
+    />
     <link href="style.css" rel="stylesheet" />
   </head>
   <body>
     <div>
-      <header class="flex flex-row h-10 bg-red-700 justify-between">
+      <header
+        class="flex flex-row h-12 bg-gray-400 justify-between items-center gap-4"
+      >
         <div>
           <img
             src="https://st2.zoom.us/static/6.3.17532/image/new/topNav/Zoom_logo.svg"
             alt="Zoom Logo"
           />
         </div>
-        <div>
+        <div class="flex flex-row">
           <nav>
-            <ol class="flex flex-row">
+            <ol class="flex flex-row gap-6">
               <li><a> Join </a></li>
               <li><a> Host </a></li>
             </ol>
           </nav>
-          <div>
-            <button>Btn</button>
+          <div class="flex pl-5 pr-4 justify-items-start">
+            <span class="material-symbols-outlined"> menu </span>
           </div>
         </div>
       </header>
